@@ -139,7 +139,6 @@
     <ClInclude Include="Renderer3D.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cubeNoOOP.cpp" />
     <ClCompile Include="Pyramid.cpp" />
     <ClCompile Include="Renderer3D.cpp" />
   </ItemGroup>
